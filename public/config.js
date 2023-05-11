@@ -22,8 +22,12 @@ window.Config = {
       url: 'https://my.yvyan.top/'
     },
     {
+      text: 'UptimeRobot',
+      url: 'https://uptimerobot.yvyan.top/'
+    },
+    {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/yb/uptime-status/'
     },
   ],
 };
